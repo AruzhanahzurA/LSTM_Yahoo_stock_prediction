@@ -19,4 +19,3 @@ This project was done in Google Collab. To run it you will need to download the 
 pip install pandas torch tensorflow scikit-learn
 ```
 
-## Usage## 
